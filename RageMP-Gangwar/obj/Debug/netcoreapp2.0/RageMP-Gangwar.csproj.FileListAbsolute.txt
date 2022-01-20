@@ -1,0 +1,168 @@
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.deps.json
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.dll
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.pdb
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.AssemblyInfoInputs.cache
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.AssemblyInfo.cs
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.dll
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.pdb
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.runtimeconfig.json
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.runtimeconfig.dev.json
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Colorful.Console.dll
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.dll
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Ben.Demystifier.dll
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\NeoSmart.Hashing.dll
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\xxHash.dll
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Bootstrapper.pdb
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Bootstrapper.xml
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.csproj.CopyComplete
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.csprojAssemblyReference.cache
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.deps.json
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.runtimeconfig.json
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.runtimeconfig.dev.json
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.dll
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.pdb
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Colorful.Console.dll
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.dll
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Ben.Demystifier.dll
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\NeoSmart.Hashing.dll
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\xxHash.dll
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Bootstrapper.pdb
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Bootstrapper.xml
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.AssemblyInfoInputs.cache
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.AssemblyInfo.cs
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.csproj.CoreCompileInputs.cache
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.csproj.CopyComplete
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.dll
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.pdb
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.genruntimeconfig.cache
+D:\CrimeV Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.deps.json
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.runtimeconfig.json
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.dll
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.pdb
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Colorful.Console.dll
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Ben.Demystifier.dll
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\NeoSmart.Hashing.dll
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\xxHash.dll
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Bootstrapper.pdb
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Bootstrapper.xml
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.dll
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.pdb
+C:\Users\Administrator\Desktop\Dev Server\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.deps.json
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.runtimeconfig.json
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.dll
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.pdb
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Colorful.Console.dll
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Ben.Demystifier.dll
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\NeoSmart.Hashing.dll
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\xxHash.dll
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Bootstrapper.pdb
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Bootstrapper.xml
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.dll
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.pdb
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Hauptserver\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.deps.json
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.runtimeconfig.json
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.dll
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.pdb
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Colorful.Console.dll
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Ben.Demystifier.dll
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\NeoSmart.Hashing.dll
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\xxHash.dll
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Bootstrapper.pdb
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Bootstrapper.xml
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.dll
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.pdb
+C:\Users\Administrator\Desktop\Hauptserver - Kopie\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.deps.json
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.runtimeconfig.json
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.dll
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\RageMP-Gangwar.pdb
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Colorful.Console.dll
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Ben.Demystifier.dll
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\NeoSmart.Hashing.dll
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\xxHash.dll
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Bootstrapper.pdb
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp2.0\Bootstrapper.xml
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.dll
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.pdb
+C:\Users\Administrator\Desktop\ir\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\ir\Server\bridge\resources\gangwar\netcoreapp2.0\RageMP-Gangwar.deps.json
+C:\Users\Administrator\Desktop\ir\Server\bridge\resources\gangwar\netcoreapp2.0\RageMP-Gangwar.runtimeconfig.json
+C:\Users\Administrator\Desktop\ir\Server\bridge\resources\gangwar\netcoreapp2.0\RageMP-Gangwar.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\ir\Server\bridge\resources\gangwar\netcoreapp2.0\RageMP-Gangwar.dll
+C:\Users\Administrator\Desktop\ir\Server\bridge\resources\gangwar\netcoreapp2.0\RageMP-Gangwar.pdb
+C:\Users\Tim Lucas Trummel\Desktop\CGANGWAR\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.csproj.AssemblyReference.cache
+C:\Users\Tim Lucas Trummel\Desktop\CGANGWAR\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim Lucas Trummel\Desktop\CGANGWAR\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.AssemblyInfoInputs.cache
+C:\Users\Tim Lucas Trummel\Desktop\CGANGWAR\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.AssemblyInfo.cs
+C:\Users\Tim Lucas Trummel\Desktop\CGANGWAR\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.csproj.CoreCompileInputs.cache
+C:\Users\Tim Lucas Trummel\Desktop\CGANGWAR\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.dll
+C:\Users\Tim Lucas Trummel\Desktop\CGANGWAR\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.pdb
+C:\Users\Tim Lucas Trummel\Desktop\TIm_Woke\CGANGWAR\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.csproj.AssemblyReference.cache
+C:\Users\Tim Lucas Trummel\Desktop\TIm_Woke\CGANGWAR\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim Lucas Trummel\Desktop\TIm_Woke\CGANGWAR\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.AssemblyInfoInputs.cache
+C:\Users\Tim Lucas Trummel\Desktop\TIm_Woke\CGANGWAR\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.AssemblyInfo.cs
+C:\Users\Tim Lucas Trummel\Desktop\TIm_Woke\CGANGWAR\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.csproj.CoreCompileInputs.cache
+C:\Users\Tim Lucas Trummel\Desktop\TIm_Woke\CGANGWAR\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.dll
+C:\Users\Tim Lucas Trummel\Desktop\TIm_Woke\CGANGWAR\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.pdb
+C:\Users\Administrator\Desktop\xenon-Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\xenon-Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\xenon-Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\xenon-Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\xenon-Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\xenon-Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.csproj.CopyComplete
+C:\Users\Administrator\Desktop\xenon-Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.dll
+C:\Users\Administrator\Desktop\xenon-Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.pdb
+C:\Users\Administrator\Desktop\xenon-Gangwar\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp2.0\RageMP-Gangwar.genruntimeconfig.cache

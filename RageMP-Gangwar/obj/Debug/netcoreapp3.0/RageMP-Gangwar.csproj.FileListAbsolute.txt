@@ -1,0 +1,5 @@
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp3.0\RageMP-Gangwar.deps.json
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\bin\Debug\netcoreapp3.0\RageMP-Gangwar.dll
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp3.0\RageMP-Gangwar.csprojAssemblyReference.cache
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp3.0\RageMP-Gangwar.AssemblyInfoInputs.cache
+D:\GitLab space\ragemp-gangwars\Mappe\RageMP-Gangwar\RageMP-Gangwar\obj\Debug\netcoreapp3.0\RageMP-Gangwar.AssemblyInfo.cs

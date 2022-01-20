@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "RageMP-Gangwar": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Administrator\\Desktop\\xenon-Gangwar\\Server\\server.exe",
+      "workingDirectory": "C:\\Users\\Administrator\\Desktop\\xenon-Gangwar\\Mappe\\RageMP-Gangwar\\RageMP-Gangwar"
+    }
+  }
+}
